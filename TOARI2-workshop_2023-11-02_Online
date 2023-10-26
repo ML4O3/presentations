@@ -1,0 +1,33 @@
+# TOAR-II ML4O3 WG progress report
+
+- New working group leads
+    - Paul Griffiths
+    - Seb Hickman
+
+- Additional committee members for ML4O3 review identified
+  - Makoto Kelp (Stanford)
+  - Kelsey Doerksen (Oxford) plus PG and SH
+  - other authors welcome
+
+---
+# TOAR-II ML4O3 review paper
+
+After discussion amongst the committee, we propose a review and a forward look covering the recent literature in the use of ML, AI and other data-driven methods in tropospheric ozone research.
+
+Draft sections:
+
+- Describe /assess / benchmark existing methods for ozone forecasting.  Assess the ability of such observation-driven models for infilling/forecasting of criteria pollutants.  Scales: prediction of ozone on timescale of hours, spatial scale of few kms
+- Use of ML and AI techniques in CTM/CCM/ESMs.  Chemical solvers, replacement for model components, parameterisations, projections of future ozone levels, 
+- Preparation Earth Observation / reanalysis / data fusion ozone products, successes, challenges, applications.
+- Bias correction, sub-grid scale processes, future ozone projections
+- Impacts - health e.g. Ziegler - how to connect ML to other models, e.g. epidemiology, vegetation?
+
+---
+# Planned activities 2024 (and beyond?)
+
+- Seminars/meetings - ML4O3 could be a nice platform for community building. 
+- Hosting scoping meetings in support of TOAR-II activities to assess the capacity of the community for 
+    - an infilling/interpolation best practice working group to add value to observational datasets, e.g. TOAR OPT, TOAR-Oceans.
+    - assessment of TOAR-II database / classification of site characteristics, developing best practice for CCM/CTM evaluation using TOAR products
+
+
